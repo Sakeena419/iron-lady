@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+litellm
+google-auth
+google-cloud-aiplatform
+python-dotenv
+pydantic
+pydantic-settings
+python-multipart
